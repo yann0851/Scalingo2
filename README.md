@@ -94,9 +94,7 @@ Le projet est structuré en utilisant les concepts suivants :
    ```sh
    git clone
    ```
-2. Accédez au répertoire du projet :
-   ```sh
-   ```
+2. Accédez au répertoire du projet
 3. Ajoutez votre token GitHub dans le fichier `main.go` à la place de `YOUR_GITHUB_TOKEN`.
 
 ### Lancer le Serveur
