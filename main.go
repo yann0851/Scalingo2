@@ -280,7 +280,7 @@ func countRepositoriesPerLanguage() map[string]int {
 }
 
 func main() {
-	token := "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"
+	token := "Your_GitHub_Token"
 
 	var err error
 	repositories, err = fetchRepositories(token)
